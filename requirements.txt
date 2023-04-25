@@ -5,4 +5,3 @@ matplotlib
 xgboost
 openpyxl
 seaborn
-pickle
